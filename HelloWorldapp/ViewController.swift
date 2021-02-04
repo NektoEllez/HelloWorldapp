@@ -28,5 +28,4 @@ class ViewController: UIViewController {
         }
         
     }
-    
-}1. Change the name of the button.1. Change the name of the button.
+}
